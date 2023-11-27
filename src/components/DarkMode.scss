@@ -1,0 +1,33 @@
+.day
+{
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 300px;
+}
+
+h3
+{
+    font-size: 40px;
+}
+
+.darkModeBtn
+{
+    width: 300px;
+}
+
+.night
+{
+    background-color: rgb(42, 42, 42);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 300px;
+}

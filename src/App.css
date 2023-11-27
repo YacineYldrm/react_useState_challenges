@@ -1,0 +1,7 @@
+body
+{
+    width: 98vw;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
